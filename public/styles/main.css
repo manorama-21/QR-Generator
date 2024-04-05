@@ -1,0 +1,56 @@
+body {
+  color: rgb(61, 56, 56);
+  background-color: rgb(192, 227, 238);
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  border: 3px solid;
+  display: block;
+  padding: 20px;
+  text-align: center;
+  margin-top: 5%;
+}
+.child-container {
+  padding: 35px;
+  background-color: rgb(176, 248, 214);
+  border: 2px solid green;
+}
+form input {
+  font-size: 20px;
+  margin: 5px;
+  height: 35px;
+  padding: 5px;
+}
+#url-box {
+  height:40px;
+  color: black;
+  border: 1px solid grey;
+}
+h1{
+  text-decoration: underline;
+  font-size: 40px;
+}
+h2{
+  color: blue;
+}
+#btn {
+  color: black;
+  background-color: aqua;
+  border: none;
+  transition: 0.5s;
+  font-size: 25px;
+}
+#btn:hover {
+  font-size: 110%;
+  background-color: rgb(252, 216, 169);
+}
+a {
+  color: rgb(35, 33, 33);
+  font-size: 20px;
+}
