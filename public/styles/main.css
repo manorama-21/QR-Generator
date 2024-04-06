@@ -1,6 +1,6 @@
 body {
   color: rgb(61, 56, 56);
-  background-color: rgb(192, 227, 218);
+  background-color: rgb(192, 207, 227);
  
   display: flex;
   justify-content: center;
@@ -18,7 +18,7 @@ body {
 }
 .child-container {
   padding: 35px;
-  background-color: rgb(176, 248, 214);
+  background-color: rgb(176, 248, 240);
   border: 2px solid green;
 }
 form input {
